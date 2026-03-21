@@ -16,13 +16,18 @@ I'm a developer specializing in high-performance web technologies and Discord au
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gangbusinessinquires-rgb&theme=tokyonight&no-bg=true&margin-w=15)
 
 ---
 
@@ -37,7 +42,7 @@ I'm a developer specializing in high-performance web technologies and Discord au
 </p>
 
 ### 🐍 Contribution Snake
-![snake github contribution grid snake animation](https://github-readme-snake.azurewebsites.net/github-contribution-grid-snake.svg?github_user_name=gangbusinessinquires-rgb&outputs=color-graph&color_snake=%23777BB4&color_dots=%23161b22%2C%2321262d%2C%2330363d%2C%238b949e%2C%23d1d5db)
+![snake](https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake-dark.svg)
 
 ---
 
