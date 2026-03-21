@@ -1,6 +1,6 @@
 # <p align="center">👋 Hello, I'm Carter!</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Lead+Developer+at+DCI+Studios;Full+Stack+JS+%2B+Python;Discord+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Owner+at+DCI+Studios;Founder+of+DCI+Studios;14+Year+Old+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,16 +19,12 @@
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,github,linux,apple" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,github,linux" />
 </p>
 
 ---
 
-### 📊 Vital Signs & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gangbusinessinquires-rgb&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
-
+### 📊 Stats & Activity
 <table align="center">
   <tr>
     <td align="center" width="50%">
