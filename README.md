@@ -2,12 +2,13 @@
 
 I'm a developer specializing in high-performance web technologies and Discord automation. I lead **DCI Studios** where we build clean, functional digital experiences.
 
-🌐 **[thecarter.xyz](https://thecarter.xyz)**
+🌐 **[thecarter.xyz](https://thecarter.xyz)** | 🏢 **[dcistudios.xyz](https://dcistudios.xyz)**
 
 ---
 
 ### 🛠️ Featured Project: DCI Counting
 > A high-performance, robust counting bot designed for Discord communities. Built for scale and precision.
+- 🔗 **Website:** [dcicounting.com](https://dcicounting.com)
 - ⚡ **Status:** Active Development
 - 🛠️ **Stack:** JavaScript | Node.js | JSON Storage
 
