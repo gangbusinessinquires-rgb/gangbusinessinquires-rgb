@@ -21,7 +21,7 @@
 </p>
 
 > **Featured: DCI Counting** — A high-performance counting bot built for scale.  
-> `Stack: JS / Node.js / Python / JSON / Discord.js`
+> `Stack: Javascript / Node.js / JSON / Discord.js`
 
 ---
 
