@@ -5,11 +5,10 @@
 
 ---
 
-### 📅 Countdown to Launch
+### 📅 Important Milestones
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=777BB4&label=🎂+Birthday+Countdown&query=%24.countdown&url=https%3A%2F%2Fapi.countdown.host%2Fget%3Fdate%3D2026-04-09%26label%3Ddays&style=for-the-badge" />
-  <br><br>
-  <img src="https://img.shields.io/badge/dynamic/json?color=238636&label=🚀+DCI+Hosting+Launch&query=%24.countdown&url=https%3A%2F%2Fapi.countdown.host%2Fget%3Fdate%3D2026-04-21%26label%3Ddays&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎂_Birthday-April_9th-777BB4?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/🚀_Hosting_Launch-April_21st-238636?style=for-the-badge" />
 </p>
 
 ---
