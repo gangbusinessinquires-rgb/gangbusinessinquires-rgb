@@ -49,7 +49,7 @@
 
 ---
 
-### 📱 Connect with DCI
+### 📱 Connect with Me
 <p align="center">
   <a href="mailto:carter@dcistudios.xyz">
     <img src="https://img.shields.io/badge/Email-carter@dcistudios.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" />
