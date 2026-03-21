@@ -42,7 +42,11 @@ I'm a developer specializing in high-performance web technologies and Discord au
 </p>
 
 ### 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake.svg">
+</picture>
 
 ---
 
