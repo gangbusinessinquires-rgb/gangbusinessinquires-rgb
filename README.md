@@ -8,15 +8,17 @@
 ### 🌐 Live Network Status
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=777BB4&label=Live%20Servers&query=$.totalGuilds&url=http%3A%2F%2F194.62.248.6%3A3000%2Fstats&style=for-the-badge&logo=discord" />
+  
   <img src="https://img.shields.io/badge/dynamic/json?color=FFD700&label=Global%20High%20Score&query=$.guildData['1436783924775751942'].highScore&url=http%3A%2F%2F194.62.248.6%3A3000%2Fstats&style=for-the-badge&logo=trophy" />
+  
   <img src="https://img.shields.io/badge/dynamic/json?color=238636&label=Bot%20Status&query=$.botStatus&url=http%3A%2F%2F194.62.248.6%3A3000%2Fstats&style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=0078D4&label=Current%20Count&query=$.guildData['1436783924775751942'].currentCount&url=http%3A%2F%2F194.62.248.6%3A3000%2Fstats&style=flat-square" />
+  
   <img src="https://img.shields.io/badge/dynamic/json?color=eb459e&label=Premium%20Network&query=$.guildData['1436783924775751942'].isPremium&url=http%3A%2F%2F194.62.248.6%3A3000%2Fstats&style=flat-square&logo=star" />
 </p>
-
 ---
 
 ### 📅 Important Milestones
@@ -84,3 +86,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gangbusinessinquires-rgb&label=Profile%20Views&color=777BB4&style=flat-square" />
 </p>
+
