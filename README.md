@@ -5,6 +5,15 @@
 
 ---
 
+### 📅 Countdown to Launch
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=777BB4&label=🎂+Birthday+Countdown&query=%24.countdown&url=https%3A%2F%2Fapi.countdown.host%2Fget%3Fdate%3D2026-04-09%26label%3Ddays&style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/dynamic/json?color=238636&label=🚀+DCI+Hosting+Launch&query=%24.countdown&url=https%3A%2F%2Fapi.countdown.host%2Fget%3Fdate%3D2026-04-21%26label%3Ddays&style=for-the-badge" />
+</p>
+
+---
+
 ### 🏢 DCI Studios & Projects
 <p align="center">
   <a href="https://dcistudios.xyz"><b>Studio</b></a> | 
@@ -49,7 +58,7 @@
 
 ---
 
-### 📱 Connect with Me
+### 📱 Connect with DCI
 <p align="center">
   <a href="mailto:carter@dcistudios.xyz">
     <img src="https://img.shields.io/badge/Email-carter@dcistudios.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" />
