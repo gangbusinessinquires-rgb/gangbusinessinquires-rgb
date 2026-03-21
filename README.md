@@ -7,31 +7,26 @@
 
 ### 🏢 DCI Studios & Projects
 <p align="center">
-  <a href="https://dcistudios.xyz"><b>Studio: dcistudios.xyz</b></a> | 
-  <a href="https://thecarter.xyz"><b>Portfolio: thecarter.xyz</b></a> | 
-  <a href="https://dcicounting.com"><b>Product: dcicounting.com</b></a>
+  <a href="https://dcistudios.xyz"><b>Studio</b></a> | 
+  <a href="https://thecarter.xyz"><b>Portfolio</b></a> | 
+  <a href="https://dcicounting.com"><b>DCI Counting</b></a>
 </p>
 
-> **Featured: DCI Counting** > A high-performance counting bot built for scale.  
+> **Featured: DCI Counting** — A high-performance counting bot built for scale.  
 > `Stack: JS / Node.js / Python / JSON / Discord.js`
 
 ---
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,github,linux,apple" />
 </p>
 
 ---
 
 ### 📊 Vital Signs & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gangbusinessinquires-rgb&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gangbusinessinquires-rgb&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
 <table align="center">
@@ -53,10 +48,7 @@
 
 ### 🐍 The Contribution Game
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/gangbusinessinquires-rgb/gangbusinessinquires-rgb/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -64,10 +56,10 @@
 ### 📱 Connect with DCI
 <p align="center">
   <a href="mailto:carter@dcistudios.xyz">
-    <img src="https://img.shields.io/badge/Email-carter@dcistudios.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-carter@dcistudios.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-carter.accs-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-carter.accs-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
