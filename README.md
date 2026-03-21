@@ -1,6 +1,6 @@
 # <p align="center">👋 Hello, I'm Carter!</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Lead+Developer+at+DCI+Studios;Full+Stack+JS+Specialist;Discord+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Lead+Developer+at+DCI+Studios;Full+Stack+JS+%2B+Python;Discord+Automation+Expert" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,25 +13,25 @@
 </p>
 
 > **Featured: DCI Counting** > A high-performance counting bot built for scale.  
-> `Stack: JS / Node.js / JSON / Discord.js`
+> `Stack: JS / Node.js / Python / JSON / Discord.js`
 
 ---
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ---
 
 ### 📊 Vital Signs & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gangbusinessinquires-rgb&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gangbusinessinquires-rgb&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 <table align="center">
