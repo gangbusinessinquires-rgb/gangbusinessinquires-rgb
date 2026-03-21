@@ -1,6 +1,6 @@
 # Hello! My name is Carter! 👋
 
-I'm a developer specializing in web technologies and automation. Check out my work or get in touch below!
+I'm a developer specializing in web technologies and automation. I build high-performance tools and clean digital experiences.
 
 🌐 **[Portfolio](https://thecarter.xyz)**
 
@@ -22,12 +22,24 @@ I'm a developer specializing in web technologies and automation. Check out my wo
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ What I'm Up To
+- 🔭 I’m currently working on **[Insert Project Name]**
+- ⚡ Fun fact: I specialize in Discord automation and backend logic.
+- 📫 How to reach me: **carter.accs** on Discord.
+
+---
+
+### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangbusinessinquires-rgb&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangbusinessinquires-rgb&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangbusinessinquires-rgb&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 📱 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-carter.accs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+### 📱 Get In Touch
+[![Email Me](https://img.shields.io/badge/Email-carter@dcistudios.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carter@dcistudios.xyz)
+[![Discord](https://img.shields.io/badge/Discord-carter.accs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
